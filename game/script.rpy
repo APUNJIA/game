@@ -36,6 +36,7 @@ label start:
     m "(let's just see what's happening around me)"
     # $
     s "What's crackin' lackin' baby?"
+    #hello
 
 
     # This ends the game.

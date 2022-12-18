@@ -37,6 +37,7 @@ label start:
     # $
     s "What's crackin' lackin' baby?"
     #hello
+    m "my nigger"
 
 
     # This ends the game.

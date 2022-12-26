@@ -38,7 +38,7 @@ label start:
     s "What's crackin' lackin' baby?"
     #hello
     m "stop molesting her asshole"
-    #this is my edit and this is on video
+   
 
 
     # This ends the game.

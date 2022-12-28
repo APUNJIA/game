@@ -38,7 +38,7 @@ label start:
     s "What's crackin' lackin' baby?"
     #hello
     m "stop molesting her asshole"
-   
+   # Just let this work man. FUCK.
 
 
     # This ends the game.

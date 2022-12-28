@@ -8,7 +8,7 @@ define p = Character("Pilot")
 define s = Character("Strong Guy")
 
 
-# The game starts here.
+# The game starts here..
 
 label start:
 
